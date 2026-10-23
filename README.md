@@ -47,4 +47,5 @@ Communication and Logs
 ======================
 * GitHub Profile: <a href="https://github.com/Rompass/">https://github.com/Rompass/</a>
 * Project Tracking: Review pinned repositories for active milestones and RFCs.
+* Email: rompass@duck.com
 </pre>
